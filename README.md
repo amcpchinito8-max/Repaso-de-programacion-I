@@ -7,3 +7,5 @@ A lo largo de este trabajo abordo los pilares de la programación orientada a ob
 De igual manera, profundizo en conceptos más avanzados como las clases abstractas para crear plantillas base, el polimorfismo para ejecutar diferentes comportamientos bajo un mismo método y el uso de interfaces como contratos obligatorios en el software. Finalmente, conecto toda esta base teórica con el desarrollo web actual, analizando el patrón de diseño Modelo-Vista-Controlador tanto en frameworks de PHP como Laravel, como en el patrón equivalente de Django en Python.
 
 El contenido se presenta como un resumen técnico y teórico estructurado para consolidar los conocimientos requeridos en la evaluación de la materia y servir como guía de consulta en el repositorio.
+
+Alumno: Angel Cortesia
